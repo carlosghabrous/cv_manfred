@@ -226,7 +226,12 @@
           {
             "name": "Test Engineer",
             "startDate": "2005-06-01",
-            "finishDate": "2006-10-01"
+            "finishDate": "2006-10-01",
+            "challenges": [
+              {
+                "description": "Within AT4Wirelss (former CETECOM), I carried out different activities that made a significant contribution to set up the first WiMAX certification laboratory. "
+              }
+            ]
           }
         ]
       }
