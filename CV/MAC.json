@@ -137,7 +137,7 @@
             "finishDate": "2015-10-01",
             "challenges": [
               {
-                "description": "For the CMS collaboration at CERN (https://home.cern/science/experiments/cms)"
+                "description": "The CMS experiment is one of the four main particle detectors at CERN. It is a large international collaboration of different research institutes and universities. The Level-1 Trigger performs a coarse selection of the most relevant physics events from a data stream of about 80 TB/s. \nAs part of the Level-1 Trigger Central Online SW group, I was responsible for the development and maintenance of common components that are key in CMS day to day operations and used by a community of ~ 30 developers (mainly C++). Other projects involved full-stack software development for applications monitoring and configuring the Level-1 Trigger components (Javascript/HTML, Java and C++ as backend languages and Oracle SQL databases). I was also responsible for providing to different development groups with the necessary infrastructure to ensure a smooth and high quality software development cycle, as well as offering support and consultancy services for bugs resolution and tasks development. \nOther: 24/7 SW on-call expert, student supervisor. \n\nSkills: C++ · Distributed Systems · Python (Programming Language) · SQL"
               }
             ],
             "competences": [
