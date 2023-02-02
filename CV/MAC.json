@@ -203,6 +203,11 @@
             "name": "Technical Student",
             "startDate": "2007-03-01",
             "finishDate": "2008-03-01",
+            "challenges": [
+              {
+                "description": "Joined the CERN IT/CS group with the responsibility of designing a system to perform remote configuration of mobile phones for GPRS access. It consisted on a  GPRS/SMS modem installed on a Linux server and the control SW developed in Perl. "
+              }
+            ],
             "competences": [
               {
                 "name": "Perl",
