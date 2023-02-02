@@ -185,6 +185,19 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "CETECOM",
+          "URL": "https://www.dekra-product-safety.com/en/about-dekra/locations/europe/spain/malaga"
+        },
+        "roles": [
+          {
+            "name": "Test Engineer",
+            "startDate": "2005-06-01",
+            "finishDate": "2006-10-01"
+          }
+        ]
       }
     ]
   },
