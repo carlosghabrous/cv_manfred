@@ -1,0 +1,126 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos",
+      "surnames": "Ghabrous Larrea",
+      "title": "Creating and fixing bugs from 2010",
+      "description": "I am all-rounder software engineer with 10+ years experience delivering projects ranging from web applications to embedded systems. Nowadays, I am mostly interested in back-end development and systems' scalability. \n\nMy hopes are that, whilst keeping doing what I love, I will also have the chance to improve people's lives around me. That's why it is important for me to know that my work has a positive impact (yeah, the idealist kind of guy, I know). Ideally, I would like to be involved in projects related to climate change, healthcare, education and social justice. ",
+      "location": {
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/carlosghabrous"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/carlosghabrous/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Music lover, wannabee drummer and triathlete",
+        "fact": "Yes, music and triathlon might not be very much related, but I am over 40 and had the time to try a few things :)"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TBD"
+        },
+        "roles": [
+          {
+            "name": "TBD",
+            "startDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/carlosghabrous/"
+        }
+      ]
+    },
+    "preferences": {
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "Perl",
+          "type": "technology"
+        }
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
