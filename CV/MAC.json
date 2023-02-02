@@ -80,7 +80,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "Golang",
           "type": "technology"
         }
       },
@@ -92,7 +92,13 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
           "type": "technology"
         }
       },
@@ -104,19 +110,25 @@
       },
       {
         "skill": {
-          "name": "Golang",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
