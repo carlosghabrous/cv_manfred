@@ -143,6 +143,29 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "CERN",
+          "URL": "https://home.web.cern.ch/"
+        },
+        "roles": [
+          {
+            "name": "Radio/GSM Engineer",
+            "startDate": "2008-03-01",
+            "finishDate": "2010-04-01",
+            "competences": [
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Perl",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
