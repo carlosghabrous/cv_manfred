@@ -110,6 +110,24 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
       "discardedCompetences": [
         {
           "name": "C++",
@@ -119,6 +137,12 @@
           "name": "Perl",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Product Manager",
+        "Product Owner"
       ]
     },
     "status": "openToOffers"
