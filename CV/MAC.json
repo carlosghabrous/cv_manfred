@@ -166,6 +166,25 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "CERN",
+          "URL": "https://home.web.cern.ch/"
+        },
+        "roles": [
+          {
+            "name": "Technical Student",
+            "startDate": "2007-03-01",
+            "finishDate": "2008-03-01",
+            "competences": [
+              {
+                "name": "Perl",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
