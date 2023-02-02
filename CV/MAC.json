@@ -73,6 +73,36 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "CERN",
+          "URL": "https://home.web.cern.ch/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2016-01-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Perl",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
