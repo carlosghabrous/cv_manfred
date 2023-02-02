@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -38,15 +37,38 @@
     "jobs": [
       {
         "organization": {
-          "name": "TBD"
+          "name": "PEAT GmbH",
+          "URL": "https://plantix.net/en/"
         },
         "roles": [
           {
-            "name": "TBD",
-            "startDate": "2023-02-01",
+            "name": "Software Engineer",
+            "startDate": "2022-03-01",
             "challenges": [
               {
                 "description": "TBD"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
               }
             ]
           }
@@ -57,24 +79,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "French",
-        "level": "Full professional proficiency"
+        "name": "French"
       },
       {
-        "name": "German",
-        "level": "Limited working proficiency"
+        "name": "German"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       },
       {
-        "name": "Valencian",
-        "level": "Limited working proficiency"
+        "name": "Valencian"
       }
     ],
     "hardSkills": [
@@ -178,7 +195,6 @@
         "Product Manager",
         "Product Owner"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
