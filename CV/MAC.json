@@ -175,6 +175,11 @@
             "name": "Radio/GSM Engineer",
             "startDate": "2008-03-01",
             "finishDate": "2010-04-01",
+            "challenges": [
+              {
+                "description": "Within the Communication Systems IT group, I was responsible for CERN’s mobile phone and VHF networks, with ~ 5000 and ~ 50 users respectively, and their monitoring system based on GSM probes. As the main contact at CERN, I followed up closely different projects with our service provider. "
+              }
+            ],
             "competences": [
               {
                 "name": "Oracle",
