@@ -103,6 +103,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "University of Wisconsin",
+          "URL": "https://www.wisc.edu/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2010-05-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "For the CMS collaboration at CERN (https://home.cern/science/experiments/cms)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Servlet",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
