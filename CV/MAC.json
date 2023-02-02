@@ -55,6 +55,10 @@
                 "type": "technology"
               },
               {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
                 "name": "Django",
                 "type": "technology"
               },
@@ -64,6 +68,10 @@
               },
               {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
                 "type": "technology"
               },
               {
