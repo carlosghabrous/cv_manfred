@@ -389,6 +389,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "At the risk of sounding rather corny, my dream job is the one that allows me use my skills to improve things around me, ideally in health, climate change or education areas.\nI enjoy having a mixture of tasks in my working day/week: I really love designing and developing solutions behind the curtains (backend, yey!), also speaking with clients of our solutions to understand better what they need, coordinating actions between teams towards a common goal and streamlining complicated processes that make our day to day difficult, tiring and tedious. ",
     "goodPractices": "Testing! I have worked in different projects where testing was insufficient, so I have spent time adding it.\nThis also has the benefit of being able to refactor with more protection than keeping your fingers crossed.\n\nAlso peer reviewing and making sure the team has the appropriate infrastructure to have a smooth development cycle. "
   }
