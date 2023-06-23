@@ -307,6 +307,18 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "M. Sc. Telecommunication Engineering",
+        "startDate": "2008-03-01",
+        "institution": {
+          "name": "E.T.S.I.T Malaga"
+        },
+        "finishDate": "2008-03-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
@@ -390,6 +402,14 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "C",
+        "type": "technology"
+      },
       {
         "name": "Linux",
         "type": "technology"
