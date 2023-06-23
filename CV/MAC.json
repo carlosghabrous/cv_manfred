@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,28 +9,18 @@
       "name": "Carlos",
       "surnames": "Ghabrous Larrea",
       "title": "Creating and fixing bugs from 2010",
-      "description": "",
+      "description": "I am all-rounder software engineer with 10+ years experience delivering projects ranging from web applications to embedded systems. Nowadays, I am mostly interested in back-end development and systems' scalability. \n\nMy hopes are that, whilst keeping doing what I love, I will also have the chance to improve people's lives around me. That's why it is important for me to know that my work has a positive impact (yeah, the idealist kind of guy, I know). Ideally, I would like to be involved in projects related to climate change, healthcare, education and social justice. ",
       "avatar": {
-        "alt": "1634979091962.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/02/d2528607-cc6a-41d6-aace-e17374ae3cd3_1634979091962.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/02/d2528607-cc6a-41d6-aace-e17374ae3cd3_1634979091962.jpg",
+        "alt": "1634979091962.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/carlosghabrous"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/carlosghabrous/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Music lover, wannabee drummer and triathlete",
@@ -241,30 +231,30 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "French",
-        "level": "Full professional proficiency"
-      },
-      {
-        "name": "German",
+        "name": "CA",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "DE",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Valencian",
-        "level": "Limited working proficiency"
+        "name": "FR",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Golang",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -276,13 +266,13 @@
       },
       {
         "skill": {
-          "name": "Linux",
+          "name": "Golang",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Terraform",
+          "name": "Linux",
           "type": "technology"
         }
       },
@@ -294,19 +284,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
           "type": "technology"
         }
       },
@@ -315,6 +293,38 @@
           "name": "Python",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to give feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -322,8 +332,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/carlosghabrous/"
+          "URL": "https://www.linkedin.com/in/carlosghabrous/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/carlosghabrous",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "carlos.ghabrous@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "717701612",
+          "countryCode": "+34"
         }
       ]
     },
@@ -364,5 +387,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "At the risk of sounding rather corny, my dream job is the one that allows me use my skills to improve things around me, ideally in health, climate change or education areas.\nI enjoy having a mixture of tasks in my working day/week: I really love designing and developing solutions behind the curtains (backend, yey!), also speaking with clients of our solutions to understand better what they need, coordinating actions between teams towards a common goal and streamlining complicated processes that make our day to day difficult, tiring and tedious. ",
+    "goodPractices": "Testing! I have worked in different projects where testing was insufficient, so I have spent time adding it.\nThis also has the benefit of being able to refactor with more protection than keeping your fingers crossed.\n\nAlso peer reviewing and making sure the team has the appropriate infrastructure to have a smooth development cycle. "
   }
 }
