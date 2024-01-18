@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -25,6 +25,16 @@
       {
         "topic": "Music lover, wannabee drummer and triathlete",
         "fact": "Yes, music and triathlon might not be very much related, but I am over 40 and had the time to try a few things :)"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/carlosghabrous/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/carlosghabrous"
       }
     ]
   },
@@ -233,22 +243,27 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Limited working proficiency"
       },
       {
         "name": "DE",
+        "fullName": "Alemán",
         "level": "Limited working proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "FR",
+        "fullName": "Francés",
         "level": "Full professional proficiency"
       }
     ],
@@ -355,12 +370,6 @@
       ],
       "contactMails": [
         "carlos.ghabrous@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "717701612",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
