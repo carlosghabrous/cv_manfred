@@ -47,11 +47,11 @@
         },
         "roles": [
           {
-            "name": "Mitiga Solutions",
+            "name": "Backend/Data Engineer",
             "startDate": "2024-10-01",
             "challenges": [
               {
-                "description": "Mitiga is a climate tech / insurance tech data company. It spun off the Barcelona Supercomputing Center and it offers data to customers, so that they can assess the vulnerability of their assets related to extreme climate events. \nMy role here is a mix between backend/data engineer. Although there are some projects based on microservice architecture, there are others that are pure data-driven. \nFor the former, technologies used are Python, Flask and FastAPI, MongoDB, Docker. For the latter, Python and Argo workflows mainly. All this hosted in Azure cloud. "
+                "description": "Mitiga is a climate tech / insurance tech data company. It spun off the Barcelona Supercomputing Center and it offers data to customers, so that they can assess the vulnerability of their assets related to extreme climate events. \nMy role here is a mix between backend/data engineer. Although there are some projects based on microservice architecture, there are others that are pure data-driven. \nFor the former, technologies used are Python, Flask and FastAPI, MongoDB, Docker. For the latter, Python and Argo workflows mainly. All this hosted in Azure cloud."
               }
             ],
             "competences": [
