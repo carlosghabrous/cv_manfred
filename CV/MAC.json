@@ -8,8 +8,8 @@
     "profile": {
       "name": "Carlos",
       "surnames": "Ghabrous Larrea",
-      "title": "Creating and fixing bugs from 2010",
-      "description": "I am all-rounder software engineer with 10+ years experience delivering projects ranging from web applications to embedded systems. Nowadays, I am mostly interested in back-end development and systems' scalability. \n\nMy hopes are that, whilst keeping doing what I love, I will also have the chance to improve people's lives around me. That's why it is important for me to know that my work has a positive impact (yeah, the idealist kind of guy, I know). Ideally, I would like to be involved in projects related to climate change, healthcare, education and social justice. ",
+      "title": "Sr. Software Engineer | Awesome ramen cook | Tie my shoes pretty fast",
+      "description": "Telecommunication Engineer by training. Software developer by heart. Husband. Father. Wannabe musician and triathlete. And a bit of a geek. ",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/02/d2528607-cc6a-41d6-aace-e17374ae3cd3_1634979091962.jpg",
         "alt": "1634979091962.jpg"
@@ -42,94 +42,27 @@
     "jobs": [
       {
         "organization": {
-          "name": "Mitiga Solutions",
-          "URL": "https://www.mitigasolutions.com"
+          "name": "Mitiga Solutions"
         },
         "roles": [
           {
-            "name": "Backend/Data Engineer",
-            "startDate": "2024-10-01",
-            "challenges": [
-              {
-                "description": "Mitiga is a climate tech / insurance tech data company. It spun off the Barcelona Supercomputing Center and it offers data to customers, so that they can assess the vulnerability of their assets related to extreme climate events. \nMy role here is a mix between backend/data engineer. Although there are some projects based on microservice architecture, there are others that are pure data-driven. \nFor the former, technologies used are Python, Flask and FastAPI, MongoDB, Docker. For the latter, Python and Argo workflows mainly. All this hosted in Azure cloud."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Helm",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              }
-            ]
+            "name": "Sr. Software Engineer",
+            "startDate": "2024-10-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "PEAT GmbH",
-          "URL": "https://plantix.net/en/"
+          "name": "Plantix"
         },
         "roles": [
           {
             "name": "Software Engineer (Backend)",
             "startDate": "2022-03-01",
-            "finishDate": "2024-09-01",
+            "finishDate": "2024-11-01",
             "challenges": [
               {
-                "description": "Plantix is the #1 app for crop disease detection. With the help of AI, it is helping millions of small scale farmers increasing their yields and improving their knowledge with a single picture taken with their mobile phones.\nSkills: Terraform · Celery · Django · Django REST Framework · PostgreSQL · Amazon Web Services (AWS) · Python (Programming Language)"
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Celery",
-                "type": "technology"
-              },
-              {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
+                "description": "Plantix is the #1 app for crop disease detection. With the help of AI, it is helping millions of small scale farmers increasing their yields and improving their knowledge with a single picture taken with their mobile phones."
               }
             ]
           }
@@ -137,35 +70,16 @@
       },
       {
         "organization": {
-          "name": "CERN",
-          "URL": "https://home.web.cern.ch/"
+          "name": "CERN"
         },
         "roles": [
           {
-            "name": "Software Engineer - Embedded systems and backend",
+            "name": "Software Engineer (Controls for power converters)",
             "startDate": "2016-01-01",
             "finishDate": "2020-12-01",
             "challenges": [
               {
-                "description": "\nCERN logo\nSoftware Engineer (Controls for power converters)Software Engineer (Controls for power converters)\nCERN · Full-timeCERN · Full-time Jan 2016 - Dec 2020 · 5 yrsJan 2016 - Dec 2020 · 5 yrs Geneva Area, SwitzerlandGeneva Area, Switzerland\n\n        Software Engineer at the Converters Control Software section, a unit of the Electrical Power Converters group at CERN. Our section is in charge of the development and maintenance of software to control around 5000 power converters distributed across the accelerator chain at CERN. \n        I mainly write software for our in-house embedded platform (C), and I am also responsible for our section's transition from Perl (due to a large legacy code base) to Python. In this last language I have also written libraries to communicate with our control devices and 3-tier layer applications to reprogram custom electronics. \n        I have also recruited and supervised young engineers for diverse projects, one of them being the design and development of our new in-house next generation of embedded controls platform. \n        This role also involves project management and coordination, during the Long Shutdown 2, of activities with different distributed teams that affect O(1000) equipments, and 24/7 on-call support.Software Engineer at the Converters Control Software section, a unit of the Electrical Power Converters group at CERN. Our section is in charge of the development and maintenance of software to control around 5000 power converters distributed across the accelerator chain at CERN. I mainly write software for our in-house embedded platform (C), and I am also responsible for our section's transition from Perl (due to a large legacy code base) to Python. In this last language I have also written libraries to communicate with our control devices and 3-tier layer applications to reprogram custom electronics. I have also recruited and supervised young engineers for diverse projects, one of them being the design and development of our new in-house next generation of embedded controls platform. This role also involves project management and coordination, during the Long Shutdown 2, of activities with different distributed teams that affect O(1000) equipments, and 24/7 on-call support.\n\nSkills: Embedded Software · Project Management · C (Programming Language) · Python (Programming Language) · SQL"
-              }
-            ],
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Perl",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
+                "description": "Software Engineer at the Converters Control Software section, a unit of the Electrical Power Converters group at CERN. Our section is in charge of the development and maintenance of software to control around 5000 power converters distributed across the accelerator chain at CERN.  I mainly write software for our in-house embedded platform (C), and I am also responsible for our section's transition from Perl (due to a large legacy code base) to Python. In this last language I have also written libraries to communicate with our control devices and 3-tier layer applications to reprogram custom electronics.  I have also recruited and supervised young engineers for diverse projects, one of them being the design and development of our new in-house next generation of embedded controls platform.  This role also involves project management and coordination, during the Long Shutdown 2, of activities with different distributed teams that affect O(1000) equipments, and 24/7 on-call support."
               }
             ]
           }
@@ -173,39 +87,16 @@
       },
       {
         "organization": {
-          "name": "University of Wisconsin, CMS collaboration, CERN",
-          "URL": "https://www.wisc.edu/"
+          "name": "University of Wisconsin-Madison, based at CERN"
         },
         "roles": [
           {
-            "name": "Software Engineer - Web and distributed systems",
+            "name": "Software developer in the L1 Trigger Online SW group; CMS experiment.",
             "startDate": "2010-05-01",
             "finishDate": "2015-10-01",
             "challenges": [
               {
-                "description": "The CMS experiment is one of the four main particle detectors at CERN. It is a large international collaboration of different research institutes and universities. The Level-1 Trigger performs a coarse selection of the most relevant physics events from a data stream of about 80 TB/s. \nAs part of the Level-1 Trigger Central Online SW group, I was responsible for the development and maintenance of common components that are key in CMS day to day operations and used by a community of ~ 30 developers (mainly C++). Other projects involved full-stack software development for applications monitoring and configuring the Level-1 Trigger components (Javascript/HTML, Java and C++ as backend languages and Oracle SQL databases). I was also responsible for providing to different development groups with the necessary infrastructure to ensure a smooth and high quality software development cycle, as well as offering support and consultancy services for bugs resolution and tasks development. \nOther: 24/7 SW on-call expert, student supervisor. \n\nSkills: C++ · Distributed Systems · Python (Programming Language) · SQL"
-              }
-            ],
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Servlet",
-                "type": "technology"
+                "description": "The CMS experiment is one of the four main particle detectors at CERN. It is a large international collaboration of different research institutes and universities. The Level-1 Trigger performs a coarse selection of the most relevant physics events from a data stream of about 80 TB/s.  As part of the Level-1 Trigger Central Online SW group, I was responsible for the development and maintenance of common components that are key in CMS day to day operations and used by a community of ~ 30 developers (mainly C++). Other projects involved full-stack software development for applications monitoring and configuring the Level-1 Trigger components (Javascript/HTML, Java and C++ as backend languages and Oracle SQL databases). I was also responsible for providing to different development groups with the necessary infrastructure to ensure a smooth and high quality software development cycle, as well as offering support and consultancy services for bugs resolution and tasks development.   Other: 24/7 SW on-call expert, student supervisor. "
               }
             ]
           }
@@ -213,36 +104,24 @@
       },
       {
         "organization": {
-          "name": "CERN",
-          "URL": "https://home.web.cern.ch/"
+          "name": "CERN"
         },
         "roles": [
           {
-            "name": "Radio/GSM Engineer",
+            "name": "Radio and GSM engineer",
             "startDate": "2008-03-01",
-            "finishDate": "2010-04-01",
+            "finishDate": "2010-07-01",
             "challenges": [
               {
                 "description": "Within the Communication Systems IT group, I was responsible for CERN’s mobile phone and VHF networks, with ~ 5000 and ~ 50 users respectively, and their monitoring system based on GSM probes. As the main contact at CERN, I followed up closely different projects with our service provider. "
               }
-            ],
-            "competences": [
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Perl",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "CERN",
-          "URL": "https://home.web.cern.ch/"
+          "name": "CERN"
         },
         "roles": [
           {
@@ -253,11 +132,22 @@
               {
                 "description": "Joined the CERN IT/CS group with the responsibility of designing a system to perform remote configuration of mobile phones for GPRS access. It consisted on a  GPRS/SMS modem installed on a Linux server and the control SW developed in Perl. "
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AT4 wireless"
+        },
+        "roles": [
+          {
+            "name": "Test Engineer at WiMAX certification laboratory",
+            "startDate": "2005-10-01",
+            "finishDate": "2006-10-01",
+            "challenges": [
               {
-                "name": "Perl",
-                "type": "technology"
+                "description": "Within AT4Wirelss (former CETECOM), I carried out different activities that made a significant contribution to set up the first WiMAX certification laboratory. "
               }
             ]
           }
@@ -265,17 +155,16 @@
       },
       {
         "organization": {
-          "name": "CETECOM",
-          "URL": "https://www.dekra-product-safety.com/en/about-dekra/locations/europe/spain/malaga"
+          "name": "AT4 wireless"
         },
         "roles": [
           {
-            "name": "Test Engineer",
+            "name": "Trainee position at WiMAX certification laboratory",
             "startDate": "2005-06-01",
-            "finishDate": "2006-10-01",
+            "finishDate": "2005-10-01",
             "challenges": [
               {
-                "description": "Within AT4Wirelss (former CETECOM), I carried out different activities that made a significant contribution to set up the first WiMAX certification laboratory. "
+                "description": "RESPONSIBILITIES:  * Studied documentation about WiMAX technology (standards 802.16d-2004 and 802.16-2005e)  * Studied documentation involved in WiMAX certification (ETSI, WiMAX forum documentation)  * Carried out tasks related to test tools validation for testing WiMAX equipments."
               }
             ]
           }
@@ -326,6 +215,36 @@
       },
       {
         "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Celery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Golang",
           "type": "technology"
         }
@@ -365,38 +284,34 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "M. Sc. Telecommunication Engineering",
-        "startDate": "1998-09-01",
+        "name": "CSC certificate",
+        "startDate": "2009-01-01",
         "institution": {
-          "name": "E.T.S.I.T Malaga"
+          "name": "CERN School of Computing"
         },
-        "finishDate": "2005-06-01"
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to give feedback",
-          "type": "practice"
-        }
+        "finishDate": "2009-01-01"
       },
       {
-        "skill": {
-          "name": "Capacity for self-management ",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mentoring ability",
-          "type": "practice"
-        }
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "M. Sc.",
+        "startDate": "1998-01-01",
+        "institution": {
+          "name": "Universidad de Málaga"
+        },
+        "finishDate": "2005-01-01"
       }
     ]
   },
