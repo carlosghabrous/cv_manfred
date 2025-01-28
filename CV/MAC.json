@@ -326,13 +326,13 @@
       },
       {
         "skill": {
-          "name": "C",
+          "name": "Golang",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Golang",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -363,12 +363,6 @@
       {
         "skill": {
           "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
           "type": "technology"
         }
       }
@@ -450,7 +444,6 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Developer Evangelist & Advocate",
         "Product Manager",
         "Product Owner"
       ]
@@ -469,7 +462,11 @@
         "type": "technology"
       },
       {
-        "name": "C",
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
@@ -478,10 +475,6 @@
       },
       {
         "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "Terraform",
         "type": "technology"
       }
     ],
