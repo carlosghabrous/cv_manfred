@@ -148,7 +148,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -276,6 +276,12 @@
       },
       {
         "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C",
           "type": "technology"
         }
@@ -367,9 +373,6 @@
           "URL": "https://github.com/carlosghabrous",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "carlos.ghabrous@gmail.com"
       ]
     },
     "preferences": {
@@ -421,15 +424,15 @@
         "type": "technology"
       },
       {
-        "name": "Linux",
-        "type": "technology"
-      },
-      {
         "name": "PostgreSQL",
         "type": "technology"
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
         "type": "technology"
       }
     ],
