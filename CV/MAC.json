@@ -49,6 +49,7 @@
           {
             "name": "Software Engineer (Backend)",
             "startDate": "2022-03-01",
+            "finishDate": "2024-09-01",
             "challenges": [
               {
                 "description": "Plantix is the #1 app for crop disease detection. With the help of AI, it is helping millions of small scale farmers increasing their yields and improving their knowledge with a single picture taken with their mobile phones.\nSkills: Terraform · Celery · Django · Django REST Framework · PostgreSQL · Amazon Web Services (AWS) · Python (Programming Language)"
