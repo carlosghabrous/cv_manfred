@@ -46,8 +46,23 @@
         },
         "roles": [
           {
-            "name": "Sr. Software Engineer",
-            "startDate": "2024-10-01"
+            "name": "Sr. Software Engineer (Backend/Data)",
+            "startDate": "2024-10-01",
+            "challenges": [
+              {
+                "description": "Mitiga Solutions provides risk assessment insights on events related to climate change. \nIn Mitiga, I am part of a multidisciplinary team, and in charge of designing solutions to generate, tranform and serve our data (ETL pipelines and microservice architecture). \nI work mainly with Python in my day to day. Also Argo as a workflow orchestrator and Azure as cloud provider.\nI also try to step out of my box and use my experience to streamline and improve other sides of the company. A couple of examples are the improvement of our onboarding, the developer experience and applying GitOps paradigm to the deployment of our workflows."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
