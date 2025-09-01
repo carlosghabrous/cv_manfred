@@ -328,6 +328,14 @@
         },
         "finishDate": "2005-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
