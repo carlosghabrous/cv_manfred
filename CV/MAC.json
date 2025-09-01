@@ -335,6 +335,12 @@
           "name": "Autonomy in learning",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
       }
     ]
   },
