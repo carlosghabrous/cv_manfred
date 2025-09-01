@@ -341,6 +341,12 @@
           "name": "Capacity for self-management ",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Good verbal communication",
+          "type": "practice"
+        }
       }
     ]
   },
