@@ -48,6 +48,11 @@
           {
             "name": "Lead Backend Engineer",
             "startDate": "2025-12-01",
+            "challenges": [
+              {
+                "description": "Trustworks is a startup in the data privacy sector. We help companies automate tracking of the personal data they use and/or relay to third parties. \nAlthough my position reads \"lead backend engineer\", I have a full-stack position.\nI take part on product development, prioritizing delivering value to our customers. Also, I oversee the global architecture and functioning of our platform, and carry out tasks as recognizing and solving technical debt (when it has negative impact on value delivery and/or customer satisfaction), building CI/CD pipelines, saving costs on infrastructure. With the engineering team, I also try to reduce points of friction in the way we work, and organize knowledge share sessions to mentor and spread knowledge I acquire solving practical problems."
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -67,6 +72,10 @@
               },
               {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               },
               {
