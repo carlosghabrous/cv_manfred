@@ -42,6 +42,43 @@
     "jobs": [
       {
         "organization": {
+          "name": "Trustworks"
+        },
+        "roles": [
+          {
+            "name": "Lead Backend Engineer",
+            "startDate": "2025-12-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Mitiga Solutions"
         },
         "roles": [
